@@ -160,3 +160,7 @@ Also, I needed to look for an action that will take the message from teams and s
 ## future improvement
 
 I will try to understand more actions and triggers to see what else you can do with action workflow in Azure. If I have time I will start to experiment and create more action workflows to better understand the concept.
+
+## video
+
+[video demo and explanation](https://youtu.be/7rJy8aPGmKI)
